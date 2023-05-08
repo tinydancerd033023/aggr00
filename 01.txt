@@ -1,2 +1,3 @@
-
-
+vmess://eyJhZGQiOiJ6NTJjYnctODA4MC5jc2IuYXBwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ6NTJjYnctODA4MC5jc2IuYXBwIiwiaWQiOiI3MGNkZTk0Yy0wODEzLTQxMzQtYmRkZC0yYjZiY2U5YzIwMmQiLCJuZXQiOiJ3cyIsInBhdGgiOiJiYWNrdXAiLCJwb3J0IjoiNDQzIiwicHMiOiJTZXJ2ZXIgNSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ6NTJjYnctODA4MC5jc2IuYXBwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://70cde94c-0813-4134-bddd-2b6bce9c202d@z52cbw-8080.csb.app:443?path=cdn&security=tls&host=z52cbw-8080.csb.app&type=ws&sni=z52cbw-8080.csb.app#Server+3
+vless://70cde94c-0813-4134-bddd-2b6bce9c202d@z52cbw-8080.csb.app:443?path=file&security=tls&encryption=none&host=z52cbw-8080.csb.app&type=ws&sni=z52cbw-8080.csb.app#Server+1

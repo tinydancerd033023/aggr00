@@ -1,0 +1,14 @@
+on: push
+
+jobs:
+  for-mtn:
+    runs-on: ubuntu
+    
+    steps:
+      - name: for mtn
+        # Uses the default branch of a public repository
+        uses: maharishi1/Duplicate-Line-Remover-Action@v1
+        with:
+          input-folder: test00/in
+          output-folder: test00/out
+          

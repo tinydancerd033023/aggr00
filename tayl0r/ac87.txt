@@ -1,27 +1,20 @@
-vless://d3cf2abc-57a2-4cb6-a01a-00de66e2108b@217.182.44.80:443?encryption=none&security=reality&sni=eset.com&fp=random&pbk=glSD_G2FEYLtsYKbh9Yr5Q7wglrhYb_hYpQtLG7RqDw&sid=18995a0d&spx=%2F&type=grpc&serviceName=%40Seyyedmt&mode=gun#%40SeyyedMT%20Reality%20France%F0%9F%94%B9
+vless://3fc5a270-534b-4e08-bdd7-b2eaab2a0cc0@185.224.129.197:443?encryption=none&security=tls&sni=system.ukmamali.tk&type=ws&host=system.ukmamali.tk&path=%2F#IRVLESS-Turbo250
 
-vless://c46b5ce8-4ace-4924-953b-1da6d6068116@217.182.44.80:444?encryption=none&security=reality&sni=eset.com&fp=firefox&pbk=RutusHA1XsImcBwXC18OuzIC4Emlg4jh6aI3RnvqCSA&sid=8e89b0a2&spx=%2F&type=tcp&headerType=none#%40SeyyedMT%20Reality%20France%F0%9F%94%B9
+vless://3fc5a270-534b-4e08-bdd7-b2eaab2a0cc0@109.122.208.118:443?encryption=none&security=tls&sni=amd.ukmamali.tk&type=ws&host=amd.ukmamali.tk&path=%2F#IRVLESS-Turbo247
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTZXl5ZWRtVCDZh9mF2LHYp9mHINin2YjZhCArINmF2K7Yp9io2LHYp9iqIiwNCiAgImFkZCI6ICIxMDQuMzEuMTYuMTk3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImQ2NDk2MTJkLTk5N2UtNDg2Ny04ZWZiLWU0NGM2MjdmYmQxYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiTWNpLVJpZ2h0ZWwtdGFsaWEtbW9raGFiZXJhdC5pcmFuY2VsbC1pcmFuY2VsbC53ZWJzaXRlIiwNCiAgInBhdGgiOiAiL3NleXllZG10MSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJNY2kyLVJpZ2h0ZWwtdGFsaWEtbW9raGFiZXJhdC5pcmFuY2VsbC1pcmFuY2VsbC53ZWJzaXRlIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9tIg0KfQ==
+vless://3fc5a270-534b-4e08-bdd7-b2eaab2a0cc0@109.122.208.218:443?encryption=none&security=tls&sni=amd.ukmamali.tk&type=ws&host=amd.ukmamali.tk&path=%2F#IRVLESS-Turbo248
 
-vless://62eec586-79d2-4aad-b64d-84521df360d7@104.31.16.197:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40Seyyedmt%20%40Seyyedmt2&mode=gun#%40seyyedMT-%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%2B%20%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
+vless://904704c1-b571-47e5-e57f-a3b97017f4b9@154.7.253.172:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#IRVLESS-Turbo249
 
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers&sni=account.zula.ir&sid=7db43f99#Reality+1
+vless://Legenderyking@94.228.169.27:443?path=%2F%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=chrome&type=http&sni=zula.ir&sid=1bb461e8#Reality+3
 
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=qCZUdWQZ2H33vWXnOkG8NpxBeq3qn5QWXlfCOWBNkkc&fp=chrome&type=grpc&serviceName=@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers,@LegenderY_Servers&sni=account.zula.ir&sid=5284ef3e#Reality+1
+vless://LegenderY_Servers@45.76.94.181:443?security=reality&encryption=none&pbk=rh7Xhy7P65VLTLM1dHZOOxt3pDwsLfUsZFqW6aFdAz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=sdk.crazygames.com&sid=63357b72#Reality+2
 
-vless://dbedf690-fc5f-476f-91b6-8d0752cdf5b3@65.109.185.36:433?security=reality&encryption=none&pbk=CrMCTfpKDBgCqwck-dZ7jkLxdPvi3SL0PZ9TDydD420&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eset.com#%E2%9C%94%EF%B8%8F%F0%9F%87%AB%F0%9F%87%AE%F0%9F%9A%80%40Xv2rayNG+%3D%3E%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://cf2bb48d-2f70-4f23-c317-d8e672c02140@ALL.XHER0.DE:7007?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%92%9AFree_From_XHER0%F0%9F%92%9A
 
-vless://63f80dfa-bc34-4e2e-8222-8dbf0c6a58da@autos.saenpai-did-you-watch-hentai.cfd:443?security=reality&encryption=none&pbk=OJ-pXlDe3tPf5NhbSE7eiCAYK9-lnKNvhKpy8ZzF3SQ&headerType=none&fp=chrome&spx=%2FMariaDB%2Fmariadb-10.11.3%2F&type=tcp&flow=xtls-rprx-vision&sni=dlm.mariadb.com&sid=e04113fc#Aincard
+vless://8bf8b7d8-a0e8-48a1-ff87-a7cc2182fda7@217.182.44.80:443?encryption=none&security=reality&sni=eset.com&fp=random&pbk=glSD_G2FEYLtsYKbh9Yr5Q7wglrhYb_hYpQtLG7RqDw&sid=18995a0d&spx=%2F&type=grpc&serviceName=%40Seyyedmt&mode=gun#%40SeyyedMT%20Reality%20France%F0%9F%94%B9
 
-vless://6b4f4080-ff5a-4957-9f0c-e7e201eb9348@all.xher0.de:7007?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%40X_her0%F0%9F%92%9A
+vless://98f6d798-f40e-405a-a0a8-fff6ca593fbd@217.182.44.80:444?encryption=none&security=reality&sni=eset.com&fp=firefox&pbk=RutusHA1XsImcBwXC18OuzIC4Emlg4jh6aI3RnvqCSA&sid=8e89b0a2&spx=%2F&type=tcp&headerType=none#%40SeyyedMT%20Reality%20France%F0%9F%94%B9
 
-vless://8ada17a4-9416-41b0-e4b1-d9fcc372af4a@[::ffff:68f8:668c]:57420?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#%40OPIranclub
+vless://326d11c7-69df-4ecc-b8e9-a6fc9c5392bf@room.minecraft.pe:5010?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s.pinimg.com&fp=firefox&pbk=JIj5YzTguFqE-dSPKK1ukaTGo3P99-5X8sI6Ask0lTc&sid=d2195e26&spx=%2Ft.me%2FDarkVPNpro&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AAt.me%2FDarkVPNpro
 
-vless://8ada17a4-9416-41b0-e4b1-d9fcc372af4a@[::ffff:68f8:668c]:57420?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#%40OPIranclub
-
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@185.253.47.45:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#IRVLESS-Turbo246
-
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@176.31.25.227:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#IRVLESS-Turbo244
-
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@198.244.144.232:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#IRVLESS-Turbo245

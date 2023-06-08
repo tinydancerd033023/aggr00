@@ -2,6 +2,10 @@ vless://8bf8b7d8-a0e8-48a1-ff87-a7cc2182fda7@217.182.44.80:443?encryption=none&s
 
 vless://98f6d798-f40e-405a-a0a8-fff6ca593fbd@217.182.44.80:444?encryption=none&security=reality&sni=eset.com&fp=firefox&pbk=RutusHA1XsImcBwXC18OuzIC4Emlg4jh6aI3RnvqCSA&sid=8e89b0a2&spx=%2F&type=tcp&headerType=none#%40SeyyedMT%20Reality%20France%F0%9F%94%B9
 
+vless://8bf8b7d8-a0e8-48a1-ff87-a7cc2182fda7@217.182.44.80:443?encryption=none&security=reality&sni=eset.com&fp=random&pbk=glSD_G2FEYLtsYKbh9Yr5Q7wglrhYb_hYpQtLG7RqDw&sid=18995a0d&spx=%2F&type=grpc&serviceName=%40Seyyedmt&mode=gun#%40SeyyedMT%20Reality%20France%F0%9F%94%B9
+
+vless://98f6d798-f40e-405a-a0a8-fff6ca593fbd@217.182.44.80:444?encryption=none&security=reality&sni=eset.com&fp=firefox&pbk=RutusHA1XsImcBwXC18OuzIC4Emlg4jh6aI3RnvqCSA&sid=8e89b0a2&spx=%2F&type=tcp&headerType=none#%40SeyyedMT%20Reality%20France%F0%9F%94%B9
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTZXl5ZWRtVCDZh9mF2LHYp9mHINin2YjZhCArINmF2K7Yp9io2LHYp9iqIiwNCiAgImFkZCI6ICIxMDQuMzEuMTYuMTk3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjNlZGI5MjQ1LWEwMjEtNDBiZC1jOTI0LTM4ZWUzYzUxNjc3NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiTWNpLVJpZ2h0ZWwtdGFsaWEtbW9raGFiZXJhdC5pcmFuY2VsbC1pcmFuY2VsbC53ZWJzaXRlIiwNCiAgInBhdGgiOiAiL3NleXllZG10MSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJNY2kyLVJpZ2h0ZWwtdGFsaWEtbW9raGFiZXJhdC5pcmFuY2VsbC1pcmFuY2VsbC53ZWJzaXRlIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9tIg0KfQ==
 
 vless://a99e4e1d-2957-40b4-c698-138606e1efcb@104.31.16.197:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40Seyyedmt%20%40Seyyedmt2&mode=gun#%40seyyedMT-%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%2B%20%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA

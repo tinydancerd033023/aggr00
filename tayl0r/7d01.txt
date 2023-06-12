@@ -61,11 +61,6 @@ trojan://DU3yQJ7tOD@104.243.33.152:28914?type=http&security=reality&path=%2F&hos
 vless://e9d1478a-3334-4dcb-8f06-d334da88f120@104.243.33.152:15674?type=tcp&security=reality&sni=lovelive-anime.jp&pbk=IX6-MCPB7qSYP9DUca4Kenvnaw-fqfXtxwaJ1xoPRko&flow=&sid=5380f7b0eb&fp=chrome#IRVLESS-REALITY3
 
 
-
-sn://ssh?eNpjYGBgMLQw0DM0sdQzMdEzMtoiBhTJLCrLSS3-zIhgNoLYnkFhPq7BwbrBwR66To7eVxsbAc3XEQA
-
-
-
 vless://904704c1-b571-47e5-e57f-a3b97017f4b9@79.132.128.59:443?encryption=none&security=tls&sni=I8OyN0uc.ukmamali.tk&fp=ios&type=ws&host=I8OyN0uc.ukmamali.tk&path=%2F#IRVLESS-TurboX
 vless://904704c1-b571-47e5-e57f-a3b97017f4b9@38.242.246.244:443?encryption=none&security=tls&sni=I8OyN0uc.ukmamali.tk&fp=ios&type=ws&host=I8OyN0uc.ukmamali.tk&path=%2F#IRVLESS-TurboY
 vless://904704c1-b571-47e5-e57f-a3b97017f4b9@75.119.132.63:443?encryption=none&security=tls&sni=I8OyN0uc.ukmamali.tk&fp=ios&type=ws&host=I8OyN0uc.ukmamali.tk&path=%2F#IRVLESS-TurboZ

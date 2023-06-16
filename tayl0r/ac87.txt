@@ -1,68 +1,66 @@
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTZXl5ZWRtVCDZh9mF2LHYp9mHINin2YjZhCArINmF2K7Yp9io2LHYp9iqIiwNCiAgImFkZCI6ICIxMDQuMzEuMTYuMTk3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImRkZWYwYTdlLWNiNzUtNDU4Zi1hZmIwLWRlMjVhNDZjMGQwYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiTWNpLVJpZ2h0ZWwtdGFsaWEtbW9raGFiZXJhdC5pcmFuY2VsbC1pcmFuY2VsbC53ZWJzaXRlIiwNCiAgInBhdGgiOiAiL0BTZXl5ZWRNVCBAU2V5eWVkTVQiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiTWNpMi1SaWdodGVsLXRhbGlhLW1va2hhYmVyYXQuaXJhbmNlbGwtaXJhbmNlbGwud2Vic2l0ZSIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbSINCn0=
+vless://23d79ad8-84ac-4bdc-8c39-8c26e2602229@5.161.153.122:443?encryption=none&headerType=none&type=tcp&security=reality&sni=www.discord.gg&fp=firefox&pbk=3mW_oRNg8ajdC3bZQIOOmaAJxjlERJmV8XiC-5e-bVo&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&xtls=2#%F0%9F%87%BA%F0%9F%87%B8%20%40SeyyedMT%20%D8%B1%DB%8C%D9%84%DB%8C%D8%AA%DB%8C%20%20%2B%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
 
-vless://da73316e-ec1f-4702-b34a-09b94c36b7d6@104.31.16.197:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=@Seyyedmt @Seyyedmt @Seyyedmt @Seyyedmt&mode=gun#%40seyyedMT-%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%2B%20%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
+vless://c27340cc-0832-4c82-c585-f82a93825d10@digikala.aparat.seyyedmt.seyyedmtprime.tech:443?encryption=none&security=reality&sni=eset.com&fp=random&pbk=glSD_G2FEYLtsYKbh9Yr5Q7wglrhYb_hYpQtLG7RqDw&sid=18995a0d&spx=%2F&type=grpc&serviceName=@Seyyedmt @Seyyedmt&mode=gun#%40SeyyedMT%20Reality%20France%F0%9F%94%B9%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%85%D8%A8%DB%8C%D9%86%20%D9%86%D8%AA%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTZXl5ZWRtVCDZh9mF2LHYp9mHINin2YjZhCArINmF2K7Yp9io2LHYp9iqIiwNCiAgImFkZCI6ICIxMDQuMzEuMTYuNTgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZGRlZjBhN2UtY2I3NS00NThmLWFmYjAtZGUyNWE0NmMwZDBjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJNY2ktUmlnaHRlbC10YWxpYS1tb2toYWJlcmF0LmlyYW5jZWxsLWlyYW5jZWxsLndlYnNpdGUiLA0KICAicGF0aCI6ICIvQFNleXllZE1UIEBTZXl5ZWRNVCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJNY2kyLVJpZ2h0ZWwtdGFsaWEtbW9raGFiZXJhdC5pcmFuY2VsbC1pcmFuY2VsbC53ZWJzaXRlIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9tIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTZXl5ZWRtVCDZh9mF2LHYp9mHINin2YjZhCArINmF2K7Yp9io2LHYp9iqIiwNCiAgImFkZCI6ICIxMDQuMzEuMTYuMTk3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjM1N2Q4MmNiLTBhMTYtNDdjOS1lYmMxLWJjZWE3MTIyNzc1NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiTWNpLVJpZ2h0ZWwtdGFsaWEtbW9raGFiZXJhdC5pcmFuY2VsbC1pcmFuY2VsbC53ZWJzaXRlIiwNCiAgInBhdGgiOiAiL0BTZXl5ZWRNVCBAU2V5eWVkTVQiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiTWNpMi1SaWdodGVsLXRhbGlhLW1va2hhYmVyYXQuaXJhbmNlbGwtaXJhbmNlbGwud2Vic2l0ZSIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbSINCn0=
+
+
+vless://a3b0fc70-5eb9-49ee-dc4b-ba7faf8da5d0@104.31.16.197:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=@Seyyedmt @Seyyedmt @Seyyedmt @Seyyedmt&mode=gun#%40seyyedMT-%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%2B%20%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTZXl5ZWRtVCDZh9mF2LHYp9mHINin2YjZhCArINmF2K7Yp9io2LHYp9iqIiwNCiAgImFkZCI6ICIxMDQuMzEuMTYuNTgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMzU3ZDgyY2ItMGExNi00N2M5LWViYzEtYmNlYTcxMjI3NzU3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJNY2ktUmlnaHRlbC10YWxpYS1tb2toYWJlcmF0LmlyYW5jZWxsLWlyYW5jZWxsLndlYnNpdGUiLA0KICAicGF0aCI6ICIvQFNleXllZE1UIEBTZXl5ZWRNVCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJNY2kyLVJpZ2h0ZWwtdGFsaWEtbW9raGFiZXJhdC5pcmFuY2VsbC1pcmFuY2VsbC53ZWJzaXRlIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAicmFuZG9tIg0KfQ==
  
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTZXl5ZWRtdCAgIDYg2KfbjNix2KfZhtiz2YQiLA0KICAiYWRkIjogIm10bnAuaXBjZi5jbG91ZCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkZGVmMGE3ZS1jYjc1LTQ1OGYtYWZiMC1kZTI1YTQ2YzBkMGMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIk1jaS1SaWdodGVsLXRhbGlhLW1va2hhYmVyYXQuaXJhbmNlbGwtaXJhbmNlbGwud2Vic2l0ZSIsDQogICJwYXRoIjogIi9AU2V5eWVkTVQgQFNleXllZE1UIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIk1jaTItUmlnaHRlbC10YWxpYS1tb2toYWJlcmF0LmlyYW5jZWxsLWlyYW5jZWxsLndlYnNpdGUiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJyYW5kb20iDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTZXl5ZWRtdCAgIDYg2KfbjNix2KfZhtiz2YQiLA0KICAiYWRkIjogIm10bnAuaXBjZi5jbG91ZCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjZWVlMzc0MS0zNTU2LTQxYTMtYmJjNy1iYzBjZTE3ZWNjOTYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIk1jaS1SaWdodGVsLXRhbGlhLW1va2hhYmVyYXQuaXJhbmNlbGwtaXJhbmNlbGwud2Vic2l0ZSIsDQogICJwYXRoIjogIi9AU2V5eWVkTVQgQFNleXllZE1UIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIk1jaTItUmlnaHRlbC10YWxpYS1tb2toYWJlcmF0LmlyYW5jZWxsLWlyYW5jZWxsLndlYnNpdGUiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJyYW5kb20iDQp9
 
-vless://da73316e-ec1f-4702-b34a-09b94c36b7d6@mtn.ipcf.cloud:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=@Seyyedmt @Seyyedmt @Seyyedmt @Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%201
+vless://a3b0fc70-5eb9-49ee-dc4b-ba7faf8da5d0@mtn.ipcf.cloud:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40Seyyedmt%20%40Seyyedmt%20%40Seyyedmt%20%40Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%201
 
-vless://da73316e-ec1f-4702-b34a-09b94c36b7d6@95.179.150.52:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=@Seyyedmt @Seyyedmt @Seyyedmt @Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%202
+vless://a3b0fc70-5eb9-49ee-dc4b-ba7faf8da5d0@194.152.44.168:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40Seyyedmt%20%40Seyyedmt%20%40Seyyedmt%20%40Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%202
 
-vless://da73316e-ec1f-4702-b34a-09b94c36b7d6@95.179.247.71:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName= @Seyyedmt @Seyyedmt @Seyyedmt @Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%203
+vless://a3b0fc70-5eb9-49ee-dc4b-ba7faf8da5d0@95.179.247.71:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40Seyyedmt%20%40Seyyedmt%20%40Seyyedmt%20%40Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%203
 
-vless://da73316e-ec1f-4702-b34a-09b94c36b7d6@95.179.243.13:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=@Seyyedmt @Seyyedmt @Seyyedmt @Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%204
+vless://a3b0fc70-5eb9-49ee-dc4b-ba7faf8da5d0@95.179.243.13:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40Seyyedmt%20%40Seyyedmt%20%40Seyyedmt%20%40Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%204
 
-vless://da73316e-ec1f-4702-b34a-09b94c36b7d6@95.179.240.154:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=@Seyyedmt @Seyyedmt @Seyyedmt @Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%205
+vless://a3b0fc70-5eb9-49ee-dc4b-ba7faf8da5d0@95.179.240.154:2053?encryption=none&security=tls&sni=Mci-Rightel-talia-mokhaberat.irancell-irancell.website&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=@Seyyedmt @Seyyedmt @Seyyedmt @Seyyedmt&mode=gun#%40seyyedMT-%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%205
 
-
-vless://08f8162f-7a20-4ec1-c680-85ec0593448e@digikala.aparat.seyyedmt.seyyedmtprime.tech:443?encryption=none&security=reality&sni=eset.com&fp=random&pbk=glSD_G2FEYLtsYKbh9Yr5Q7wglrhYb_hYpQtLG7RqDw&sid=18995a0d&spx=%2F&type=grpc&serviceName=@Seyyedmt @Seyyedmt&mode=gun#%40SeyyedMT%20Reality%20France%F0%9F%94%B9%20%E2%9D%A4
-
-vless://6b1be8a9-cf5a-45bb-cbff-dc8876a71fe8@digikala.aparat.seyyedmt.seyyedmtprime.tech:444?encryption=none&security=reality&sni=eset.com&fp=firefox&pbk=RutusHA1XsImcBwXC18OuzIC4Emlg4jh6aI3RnvqCSA&sid=8e89b0a2&spx=%2F%40Seyyedmt&type=tcp&headerType=none#%40SeyyedMT%20Reality%20France%F0%9F%94%B9%20%E2%9D%A4
-
-vless://7dda0a67-4b5e-419a-e4f2-27db5132a1b9@digikala.aparat.seyyedmt.seyyedmtprime.tech:445?encryption=none&security=reality&sni=eset.com&fp=firefox&pbk=cT50sNSfEvJaJmNxmwBLxhBGjpGFzOBJZVazVhCbUTU&sid=045f35bf&spx=%2F&type=http&host=google.com&path=%2F%40Seyyedmt%20%40Seyyedmt#%40SeyyedMT%20Reality%20France%F0%9F%94%B9%20%E2%9D%A4
-
-vless://hentai@45.89.54.240:2053?type=tcp&security=reality&fp=firefox&pbk=nr0WlY8dIJqGDukYxA95lOxqldG-sz-gX3251_cSwEw&sni=miracle.girlswithout.top&flow=xtls-rprx-vision&sid=d3fd2db1&spx=%2F#Reality-1-azadi
-
-vless://1519295b-d22b-494d-af0f-4246d26f1b97@185.36.228.131:2052?encryption=none&security=none&type=tcp&headerType=http&host=medium.com#%40custom_config%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-
-vless://Legenderyking@94.228.169.27:443?path=%2FTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=VigpKFbSLnHLzBWobZaS1IBmw--giJ51w92y723ajnU&fp=chrome&type=http&sni=zula.ir&sid=e2bea644#Reality+2
-
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=O9RSr5gSdok2K_tobQnf_scyKVqnCx6C4Jrl7_rCZEQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=zula.ir&sid=95d5e4c8#Reality+1
-
-vless://752827b9-48fc-4319-9259-24375cc271eb@m7.miladmk.site:443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#telegram-channel-proxy_mtm
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:8888#telegram-channel-proxy_mtm
-vless://8f2f135a-6cb4-4e93-d092-9f24aa6d6578@open.digiv2ray.online:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#telegram-channel-proxy_mtm
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.84.177:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#telegram-channel-proxy_mtm
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5000#telegram-channel-proxy_mtm
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.171.245:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#telegram-channel-proxy_mtm
-vmess://eyJhZGQiOiI1MS4xNS40Ni43OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmJhaWR1LmNvbSIsImlkIjoiYjBiNDIwOWMtNWQ1Yi00NDk5LWEwYWMtYjk2OTA2ZmZhN2U4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJ0ZWxlZ3JhbS1jaGFubmVsLXByb3h5X210bSIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI6OmZmZmY6ODA4YzozNWUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTA5ODIyZTktMWJjZi00OTM1LWQyN2UtZWNiNWVmMGIxODg4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MDEwIiwicHMiOiJ0ZWxlZ3JhbS1jaGFubmVsLXByb3h5X210bSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.54.209:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#telegram-channel-proxy_mtm
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@[2a07:5740:600:2::f874:36f3]:43407?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#telegram-channel-proxy_mtm
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZEVtUTJvQTBBUk05TWlkSVhGM2Zx@51.12.82.85:35013#telegram-channel-proxy_mtm
-
-vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=O9RSr5gSdok2K_tobQnf_scyKVqnCx6C4Jrl7_rCZEQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=zula.ir&sid=95d5e4c8#%D8%A2%D8%AF%D8%B1%D8%B3+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7%3A+v2rayng_confings%40
-
-vless://Legenderyking@94.228.169.27:443?path=%2FTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=VigpKFbSLnHLzBWobZaS1IBmw--giJ51w92y723ajnU&fp=chrome&type=http&sni=zula.ir&sid=e2bea644#%D8%A2%D8%AF%D8%B1%D8%B3+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7%3A+v2rayng_confings%40
-
-vless://Legenderyking@94.228.169.27:443?path=%2F%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers%2C%40LegenderY_Servers&security=reality&encryption=none&pbk=VigpKFbSLnHLzBWobZaS1IBmw--giJ51w92y723ajnU&fp=chrome&type=http&sni=zula.ir&sid=e2bea644#Reality+2
+vless://267f80bd-b00a-4762-e25a-989f28dbe8a6@95.164.44.51:443?encryption=none&security=reality&sni=zula.ir&fp=firefox&pbk=IzlEl0pZ7amlzS5yeUaW6ahE_meZCXSzPMMc16G46GI&sid=13291bed&spx=%2F&type=http&path=%2F@SeyyedMT @SeyyedMT @SeyyedMT @SeyyedMT @SeyyedMT#%40SeyyedMT%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-S
 
 
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@104.243.33.152:43407?encryption=none&security=none&type=tcp&headerType=http&host=Pf5IXIgd.com#IRVLESS-Turbo1
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@180.149.44.224:43407?encryption=none&security=none&type=tcp&headerType=http&host=Pf5IXIgd.com#IRVLESS-Turbo2
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@92.38.176.68:43407:43407?encryption=none&security=none&type=tcp&headerType=http&host=Pf5IXIgd.com#IRVLESS-Turbo3
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@[2a03:90c0:146::b0a]:43407?encryption=none&security=none&type=tcp&headerType=http&host=Pf5IXIgd.com#IRVLESS-Turbo4
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@[2a03:90c0:15::221]:43407?encryption=none&security=none&type=tcp&headerType=http&host=Pf5IXIgd.com#IRVLESS-Turbo5
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@[2a03:90c0:135::3e]:43407?encryption=none&security=none&type=tcp&headerType=http&host=Pf5IXIgd.com#IRVLESS-Turbo6
-trojan://wdhP87HQFl@104.243.33.152:45353?type=tcp&security=reality&sni=lovelive-anime.jp&pbk=NsqBFcuQyIABYOPSGy10esQjlHz61wKOe51I7F6sMF8&sid=2775c991f6fa53bb&fp=chrome#IRVLESS-REALITY1
-trojan://DU3yQJ7tOD@104.243.33.152:28914?type=http&security=reality&path=%2F&host=&sni=lovelive-anime.jp&pbk=-Xrk32XlwDHyvxpoMCnMrImCvxZOYTDR9_1FubwQVSk&sid=664e567c50&fp=chrome#IRVLESS-REALITY2
-vless://e9d1478a-3334-4dcb-8f06-d334da88f120@104.243.33.152:15674?type=tcp&security=reality&sni=lovelive-anime.jp&pbk=IX6-MCPB7qSYP9DUca4Kenvnaw-fqfXtxwaJ1xoPRko&flow=&sid=5380f7b0eb&fp=chrome#IRVLESS-REALITY3
+vless://6a6205b1-7a00-480d-cb6f-4a0bd883a555@136.244.70.96:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#IRVLESS-Turbo1
+vless://6a6205b1-7a00-480d-cb6f-4a0bd883a555@45.32.170.118:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#IRVLESS-Turbo2
+vless://6a6205b1-7a00-480d-cb6f-4a0bd883a555@[2001:19f0:9002:624:5400:04ff:fe79:d497]:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#IRVLESS-Turbo3
+vless://6a6205b1-7a00-480d-cb6f-4a0bd883a555@[2001:19f0:7400:205d:5400:4ff:fe79:b741]:43407?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#IRVLESS-Turbo4
+vless://6a6205b1-7a00-480d-cb6f-4a0bd883a555@136.244.70.96:443?encryption=none&security=reality&sni=eset.com&fp=firefox&pbk=hmui9c_hk-YnIc7oMrMj7YsugmBVrOLynxaLx8DTWHM&type=tcp&headerType=none#IRVLESS-REALITY1
+vless://6a6205b1-7a00-480d-cb6f-4a0bd883a555@45.32.170.118:443?encryption=none&security=reality&sni=eset.com&fp=firefox&pbk=hmui9c_hk-YnIc7oMrMj7YsugmBVrOLynxaLx8DTWHM&type=tcp&headerType=none#IRVLESS-REALITY2
 
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@79.132.128.59:443?encryption=none&security=tls&sni=I8OyN0uc.ukmamali.tk&fp=ios&type=ws&host=I8OyN0uc.ukmamali.tk&path=%2F#IRVLESS-TurboX
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@38.242.246.244:443?encryption=none&security=tls&sni=I8OyN0uc.ukmamali.tk&fp=ios&type=ws&host=I8OyN0uc.ukmamali.tk&path=%2F#IRVLESS-TurboY
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@75.119.132.63:443?encryption=none&security=tls&sni=I8OyN0uc.ukmamali.tk&fp=ios&type=ws&host=I8OyN0uc.ukmamali.tk&path=%2F#IRVLESS-TurboZ
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@75.119.152.124:443?encryption=none&security=tls&sni=I8OyN0uc.ukmamali.tk&fp=ios&type=ws&host=I8OyN0uc.ukmamali.tk&path=%2F#IRVLESS-TurboG
-vless://904704c1-b571-47e5-e57f-a3b97017f4b9@89.117.49.213:443?encryption=none&security=tls&sni=I8OyN0uc.ukmamali.tk&fp=ios&type=ws&host=I8OyN0uc.ukmamali.tk&path=%2F#IRVLESS-TurboL
+vless://904704c1-b571-47e5-e57f-a3b97017f4b9@172.67.220.44:443?encryption=none&security=tls&sni=TYnIuN6m.ukmamali.tk&fp=ios&type=ws&host=TYnIuN6m.ukmamali.tk&path=%2F#IRVLESS-TurboX
+vless://904704c1-b571-47e5-e57f-a3b97017f4b9@194.104.158.48:443?encryption=none&security=tls&sni=TYnIuN6m.ukmamali.tk&fp=ios&type=ws&host=TYnIuN6m.ukmamali.tk&path=%2F#IRVLESS-TurboY
+vless://904704c1-b571-47e5-e57f-a3b97017f4b9@185.226.182.165:443?encryption=none&security=tls&sni=TYnIuN6m.ukmamali.tk&fp=ios&type=ws&host=TYnIuN6m.ukmamali.tk&path=%2F#IRVLESS-TurboZ
+
+vless://Legenderyking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=qCZUdWQZ2H33vWXnOkG8NpxBeq3qn5QWXlfCOWBNkkc&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=4d337735#Reality+2
+
+vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=goY3OtfaA4UYbiz7Hn0NysI5QJrK0VT_Chg6RLgUPQU&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=2837729f#Reality+1
+
+vless://Legenderyking@94.228.169.27:443?path=%2FTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers%2CTelegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&fp=chrome&type=http&sni=www.zula.ir&sid=f4a67698#Reality+2
+
+vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=PGG2EYOvsFt2lAQTD7lqHeRxz2KxvllEDKcUrtizPBU&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=007bbc98#Reality+1
+
+vless:/
+
+vless://Legenderyking@49.13.15.89:443?mode=gun&security=reality&encryption=none&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=759a9df7#Reality+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
